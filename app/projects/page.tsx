@@ -37,7 +37,7 @@ export default async function ProjectsPage() {
   //       new Date(a.date ?? Number.POSITIVE_INFINITY).getTime(),
   //   );
 
-  return ( {}
+  return ( <div>To DO</div>>
     // <div className="relative pb-16">
     //   <Navigation />
     //   <div className="px-6 pt-20 mx-auto space-y-8 max-w-7xl lg:px-8 md:space-y-16 md:pt-24 lg:pt-32">
